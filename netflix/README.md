@@ -33,4 +33,4 @@ API'den çekilen verilere göre filmleri kategorilere göre sıraladım ve en po
 
 <h1>Proje Gif</h1>
 
-<img src="../netflix/src/assets/netflix.gif"/>
+<img src="../netflix/src/assets/netoo.gif />
